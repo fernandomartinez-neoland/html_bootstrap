@@ -1,0 +1,12 @@
+.header_logo {
+  width: 80px;
+}
+.navbar-color {
+  background-color: rgb(0, 123, 235) !important;
+}
+
+.border_btn_header {
+  border-color: purple;
+  border-width: 2px;
+  color: purple;
+}

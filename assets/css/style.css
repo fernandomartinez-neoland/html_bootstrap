@@ -10,3 +10,19 @@
   border-width: 2px;
   color: purple;
 }
+
+.carousel-item {
+  button {
+    position: absolute;
+    z-index: 2;
+  }
+
+  img {
+    position: relative;
+    z-index: 1;
+  }
+}
+
+.header {
+  box-shadow: 0 0px 15px rgba(0, 0, 0, 0.5);
+}
